@@ -1,6 +1,6 @@
 # Weather App
 
-- Weather App using **HTML**, **CSS** **&** **JavaScript**. We will get the current weather data from Fess API key from OpenWeatherMap and display the weather information like Temperature, Weather condition, Humidity & Wind Speed according to the city on our app.
+- Weather App using **HTML**, **CSS** **&** **JavaScript**. We will get the current weather data from Fetch API key from OpenWeatherMap and display the weather information like Temperature, Weather condition, Humidity & Wind Speed according to the city on our app.
 
 - In this weather app we will add one search box where user can enter the city name and get the weather information of the particular city.
 
